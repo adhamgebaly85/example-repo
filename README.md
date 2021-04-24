@@ -1,4 +1,8 @@
 # Example Repository
 this is a simple repo, Hello World
 
-one new change
+## release notes
+this is the release notes section
+
+## how to use the repo
+this is the how to use section
